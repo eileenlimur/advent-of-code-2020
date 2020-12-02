@@ -211,4 +211,4 @@ function sumTwoThousandTwentyAndMultiply(array) {
   }
 }
 
-console.log(sumTwoThousandMultiplied(numbers));
+console.log(sumTwoThousandTwentyAndMultiply(numbers));
