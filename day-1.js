@@ -199,7 +199,7 @@ const numbers = [1742,
 1989,
 1327]
 
-function sumTwoThousandMultiplied (array) {
+function sumTwoThousandTwentyMultiplied (array) {
   for (let i = 0; i < array.length; i++) {
     for (let j = 0; j < array.length; j++) {
       for (let k = 0; k < array.length; k++) {
