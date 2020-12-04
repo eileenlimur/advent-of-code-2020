@@ -1,4 +1,5 @@
 const fs = require('fs');
+
 fs.readFile('./day-2-data.txt', 'utf8', function read(err, data) {
   if (err) {
     throw err;
